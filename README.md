@@ -1,10 +1,7 @@
 # coffee-shop
 
 ## Live Demo
-
-
-## Preview
-
+: https://karenzinzius.github.io/coffee-shop/
 
 ## Built With
 - HTML
@@ -12,6 +9,7 @@
 
 ## Features
 - Responsive design
+- Contact form
 
 ##  What Can the App do;
 A normal coffee shop, that can be seen and reached.
